@@ -1,0 +1,856 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "iMXQm_m8Q5gwC7L8JAqVItU7BNU",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 62931,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fU2LAWmGtMF-M-iv8OR_5g_4neM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Lfq9O0z-G9k"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-04T03:00:07Z",
+        "channelId": "UCjn-VbcIkAeXQKCmLJV8YwQ",
+        "title": "SNL 코리아 시즌3 | 채수빈 편 하이라이트 | 너와 나의 결혼수업 | 쿠팡플레이 | 쿠팡",
+        "description": "쿠팡플레이 코미디 쇼 'SNL 코리아 시즌3' 3화 채수빈 편 \"너와 나의 결혼수업'' 하이라이트 대공개   수빈아! 정답을 알려줘~   SNL ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Lfq9O0z-G9k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Lfq9O0z-G9k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Lfq9O0z-G9k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "쿠팡플레이 Coupang Play",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-04T03:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FE-YU5_-n2pYZA-jOf8cJuXqj7o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-7Js3pMxyO8"
+      },
+      "snippet": {
+        "publishedAt": "2022-01-24T11:30:00Z",
+        "channelId": "UCsuoqjbhYxOwtZ0Bf-PIpyA",
+        "title": "채수빈, 당신이 몰랐던 흥미로운 이야기들 ㅣ 너와 나의 경찰수업 주연 채수빈",
+        "description": "채수빈 1994년 안양에서 태어났으며 본명은 배수빈입니다. 배수빈이라는 남자배우가 있어서 채수빈으로 이름을 바꿔서 연예계 생활 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-7Js3pMxyO8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-7Js3pMxyO8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-7Js3pMxyO8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "알고시퍼?",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-01-24T11:30:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1a5iDYObF3g3C9vtpFKZSoJtjgo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CA4-D2Ez6VY"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-09T17:50:09Z",
+        "channelId": "UCQOg8yV0ycqitk9QFPNy3tg",
+        "title": "[Zip.] 사약💀과 차가움💦이 ❌싫었던❌ 앙큼한🐾 역적 채수빈~💕",
+        "description": "SNL 코리아 리부트 시즌3 E03 Cut. #shorts.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CA4-D2Ez6VY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CA4-D2Ez6VY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CA4-D2Ez6VY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "To See, Remember & Keep",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-09T17:50:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JPdPqdi_x2XTV7bjuzhZ5xFUeFo",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCKqiyxRI6ULJpjdSgIsMUzA"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-27T04:41:47Z",
+        "channelId": "UCKqiyxRI6ULJpjdSgIsMUzA",
+        "title": "채수빈 ChaeSooBin",
+        "description": "취향? 모르면 어때! 수빈이랑 빈둥빈둥 취향 대탐험   비즈니스 문의 sb.doong.business@gmail.com.",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/Cy6RhYO4VFWz-gBvKZG_JKSLEtm--loFzpG3j5ti10d9_qGUmuRK5ZHN7GPgI13veAtvy4c3fA=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/Cy6RhYO4VFWz-gBvKZG_JKSLEtm--loFzpG3j5ti10d9_qGUmuRK5ZHN7GPgI13veAtvy4c3fA=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/Cy6RhYO4VFWz-gBvKZG_JKSLEtm--loFzpG3j5ti10d9_qGUmuRK5ZHN7GPgI13veAtvy4c3fA=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "채수빈 ChaeSooBin",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-27T04:41:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "it-oaJ880MP--xTLkWJCGFXlYP4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Vg4ba2WNXmg"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-29T09:00:19Z",
+        "channelId": "UChY4PXxJI0aJYsGT1X6INWA",
+        "title": "[옛장하드] 채수빈 양세형 핵꿀밤 짤 다들 아시죠? 과연 그 결말은,,,🥵 #채수빈 #양세형 #오빠생각 #옛능 MBC170130방송",
+        "description": "세형의 (말 그대로) 피나는 노력,, 이번 편에 나온 오빠생각 1화부터 FULL버전 다시 보기 ▷ WAVVE ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Vg4ba2WNXmg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Vg4ba2WNXmg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vg4ba2WNXmg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "옛능 : MBC 옛날 예능 다시보기",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-29T09:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RERbc5ukxkJjYfo4hXK6bavcvwI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LsD5_1mYdf8"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-10T02:00:05Z",
+        "channelId": "UCu3_w_OltOMnv87mdhakCmQ",
+        "title": "나라를 배신한 역적이 절세미인이라면?ㅋㅋㅋㅋ",
+        "description": "SNL #신동엽 #채수빈 #shorts 출처 : 쿠팡플레이 - SNL 코리아.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LsD5_1mYdf8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LsD5_1mYdf8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LsD5_1mYdf8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "세상은요지경",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-10T02:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "szkmgoVyVixWzStJN9EuzKwkw8c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AV8GiwBRxZ0"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-24T08:09:49Z",
+        "channelId": "UCF3UEVPt5zZTlBVJwDG317g",
+        "title": "[스타★봐야지] 청순 발랄 채수빈에 예능 울렁증 한 스푼 더하니 사랑스러움 그 자체💖｜아는형님｜JTBC 221112 방송 외",
+        "description": "진짜 그냥 너무 귀엽고 사랑스럽..ㅠㅠ 뭘 해도 상큼 터지는 채수빈 모음 #아는형님 #채수빈 #스타봐야지 [JTBC봐야지] 구독하기☞ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AV8GiwBRxZ0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AV8GiwBRxZ0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AV8GiwBRxZ0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JTBC Voyage",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-24T08:09:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "91PMmOBMgTQktGhcIYRQg_wZMJQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Aqtg6iiEI5A"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-17T09:02:04Z",
+        "channelId": "UCCeXBrrm1UCtZSY3fb1QGsQ",
+        "title": "연애인 촬영중간 휴식  | 배우 채수빈 | 여우각시별 | 인천공항T2",
+        "description": "한국 #드라마 #여우각시별 #채수빈.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Aqtg6iiEI5A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Aqtg6iiEI5A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Aqtg6iiEI5A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Something",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-17T09:02:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "c2gA1srysf2_o3-khPQeUdvxs8M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1AL2wQQaTUg"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-30T09:00:01Z",
+        "channelId": "UCcTWmzBmvxAKtM1tQ0VMwZA",
+        "title": "이 설레는 상황 무엇?💕 그림체 비슷한 채수빈♡최민호의 꽁냥꽁냥 TMI 커플 인터뷰 #셀프프로필 | 얼루어코리아 Allure Korea",
+        "description": "최민호 #채수빈 #넷플릭스 #더패뷸러스 서로에 대해 얼마나 알아요? 넷플릭스 오리지널 드라마 '더 패뷸러스'로 만난 배우 채수빈과 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1AL2wQQaTUg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1AL2wQQaTUg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1AL2wQQaTUg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Allure Korea",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-30T09:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "npXJmc8vkp9XgbVprwpFmHWbCd4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4otYKxziYBc"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-08T09:25:26Z",
+        "channelId": "UCjn-VbcIkAeXQKCmLJV8YwQ",
+        "title": "SNL 코리아 시즌3 | 채수빈 편 #shorts | 역적 | 쿠팡플레이 코미디 쇼 | 쿠팡",
+        "description": "어디서 그런 귀여운 개인기냐! 역적 '수빈'을 둘러싼 웃지 못할 암투(!) 'SNL 코리아 시즌3' 3화 지금 쿠플하세요 ⠀ #쿠팡플레이 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4otYKxziYBc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4otYKxziYBc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4otYKxziYBc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "쿠팡플레이 Coupang Play",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-08T09:25:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MWqEU7fbesc9kMEHrr2ir3VqDRE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kakf1DF8xp8"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-17T09:00:14Z",
+        "channelId": "UCSjJWtmdYfLL2Ki98aaN3_g",
+        "title": "채수빈의 욕 &amp; 흡연 연기 I #새콤달콤 정다은",
+        "description": "새콤달콤 속 채수빈의 반전 매력! 찰진 욕과 흡연 연기 모음 #채수빈 #새콤달콤 #ChaeSooBin #SweetandSour #Shorts.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kakf1DF8xp8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kakf1DF8xp8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kakf1DF8xp8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "채수밭 디니 ChaeSooBin fan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-17T09:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mvoLGOCMCrhx4QhwBAeWIxQziGc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7z06svNWisA"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-05T09:00:02Z",
+        "channelId": "UCSjJWtmdYfLL2Ki98aaN3_g",
+        "title": "채수빈의 한결같은 개인기",
+        "description": "남다른 유연함을 지닌 채수빈이 예능에서마다 보여준 한결같은 개인기 2015.02.16 대국민 토크쇼 안녕하세요 212회 2016.08.27 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7z06svNWisA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7z06svNWisA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7z06svNWisA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "채수밭 디니 ChaeSooBin fan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-05T09:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yS0wV3fSRcTvYZTtoe5anTh-stk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "l6QMgcbb6u8"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-05T12:29:23Z",
+        "channelId": "UCOHM2N1YQdb-cHWxJxwBMLQ",
+        "title": "채수빈(Chae Soo-Bin)의 특별한 재능 ☆상대음감★ (ft. 남자를 몰라♪) 아는 형님(Knowing bros) 258회 | JTBC 201205 방송",
+        "description": "채수빈의 특별한 재능 ☆상대음감☆ (ft. 남자를 몰라♪) #아는형님 #채수빈 #상대음감.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l6QMgcbb6u8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l6QMgcbb6u8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l6QMgcbb6u8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "아는형님 Knowingbros",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-05T12:29:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vJlDvrX9wj2BDku6WvZzeEys30Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "b25X16KmrjM"
+      },
+      "snippet": {
+        "publishedAt": "2022-02-28T04:00:08Z",
+        "channelId": "UC3re3ueOE_6VZK85zlEUWFA",
+        "title": "입덕부정기는 짧으면 짧을수록 좋다는 진리야..💕 이제훈X채수빈 간질간질 썸 모먼트.zip #여우각시별 #모았캐치 #SBSCatch",
+        "description": "[스브스캐치] 구독하기▷https://goo.gl/bnT3WD 다시보는 〈여우각시별〉 명장면 입덕부정기는 짧으면 짧을수록 좋다는 진리야.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b25X16KmrjM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b25X16KmrjM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b25X16KmrjM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBS Catch",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-02-28T04:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XIUkMzDYsu5yfTibz9eheWfKMBk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Odyx8ZpFPu8"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-05T12:53:35Z",
+        "channelId": "UCOHM2N1YQdb-cHWxJxwBMLQ",
+        "title": "꺾기 장인)) 유연성 상위 1%에 속하는 채수빈(Chae Soo-Bin)의 장점👉🏻 아는 형님(Knowing bros) 258회 | JTBC 201205 방송",
+        "description": "꺾기 장인)) 유연성 상위 1%에 속하는 채수빈의 장점     #아는형님 #채수빈 #유연성.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Odyx8ZpFPu8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Odyx8ZpFPu8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Odyx8ZpFPu8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "아는형님 Knowingbros",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-05T12:53:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cPUjOm2TPyhwiQ0ps0UnGqUhurM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pINPVAToBsw"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-21T08:00:25Z",
+        "channelId": "UCilp2H6r1B-MsTtPT6d48cQ",
+        "title": "채수빈의 로봇 연기 비하인드는? I CHAESOOBIN, 새콤달콤, 너와나의경찰수업, 채수빈 인터뷰, 에스콰이어",
+        "description": "지난주 사주 콘텐츠에 이어 이번엔 채수빈의 'Zip My Record' 인터뷰 영상을 공개합니다. 드라마, 영화는 물론 연극과 OST까지. 못하는 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pINPVAToBsw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pINPVAToBsw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pINPVAToBsw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ESQUIRE Korea",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-21T08:00:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "baibZw_r40SV1_oroC7NT8ny09M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aE7yZfujmUA"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-12T13:26:56Z",
+        "channelId": "UCOHM2N1YQdb-cHWxJxwBMLQ",
+        "title": "[아형✪하이라이트] (망붕 렌즈 장착💖) 더 패뷸러스 하게 돌아온 &#39;최민호-채수빈&#39; 그렇고 그런 사이?! | 아는 형님 | JTBC 221112 방송",
+        "description": "[아형✪하이라이트] (망붕 렌즈 장착  ) 더 패뷸러스 하게 돌아온 '최민호-채수빈' 그렇고 그런 사이?! #아는형님 #최민호 #채수빈 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aE7yZfujmUA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aE7yZfujmUA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aE7yZfujmUA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "아는형님 Knowingbros",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-12T13:26:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0GOITHBrgr4O7lpiTiosgCwBk1Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GJG5nRPBJFw"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-29T14:39:38Z",
+        "channelId": "UCeDxZBYQHuaaK-vyiLQXOEQ",
+        "title": "모쏠 찐따가 채수빈을 꼬시는 방법? &quot;넷플릭스&quot; 공개 당시 1위 찍은 로코 영화(영화리뷰/결말포함)",
+        "description": "문의: whyhaenam@gmail.com #영화리뷰결말포함 #영화추천결말 #영화결말리뷰#명작#추천 #영화리뷰 #영화추천결말포함 #영화 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GJG5nRPBJFw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GJG5nRPBJFw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GJG5nRPBJFw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "명작소녀",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-29T14:39:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VFp8M-weGbgeG2gpav0DEaslXiI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MtXJ03_iqUc"
+      },
+      "snippet": {
+        "publishedAt": "2022-02-15T12:00:12Z",
+        "channelId": "UCsRIHt5FkbGc6cQtCxt-ufA",
+        "title": "[#놀라운토요일] 피오를 웃게 하는 예능 샌액히~ㅎ?🤣 채수빈의 튀어나온 마음의 소리에 웃겨 죽는 피오ㅋㅋㅋ | #Diggle #갓구운클립",
+        "description": "놀라운토요일 #Diggle #디글 Let's giggle, :Diggle! 구독하기 ☞ https://www.youtube.com/c/tvNDENT.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MtXJ03_iqUc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MtXJ03_iqUc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MtXJ03_iqUc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "tvN D ENT",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-02-15T12:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6He7f-9jHjg2CmWGgStqn4YQVU8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "f7KKqvBJt1w"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-01T12:11:38Z",
+        "channelId": "UC2V9Ts5pmuONW_4mXei1iCQ",
+        "title": "SUB)모든 것이 완벽한 배우 채수빈의 모든 것(CHAE SOO BIN)",
+        "description": "모든 것이 완벽한 배우 채수빈의 모든 것(CHAE SOO BIN) #채수빈 #고은강 1.맛자욱 2.성형논란 3.핵꿀밤 4.길거리 캐스팅 5.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f7KKqvBJt1w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f7KKqvBJt1w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f7KKqvBJt1w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "미남미녀백과",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-01T12:11:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "N1XH4A6ljSF7Y9iYsqss4KdvBjw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "V2ghwEutJPE"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-04T08:28:16Z",
+        "channelId": "UC8WC9XoueSAokttNTlzKKGA",
+        "title": "[SNL] 주현영 채수빈 말싸움 배틀",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V2ghwEutJPE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V2ghwEutJPE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V2ghwEutJPE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "주크박스 JOOKKBOX",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-04T08:28:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hToq3mWtEz3oJD36hcrNDT5okKU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tGtVHx7-zxw"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-07T13:00:29Z",
+        "channelId": "UCXbBDM1CFNvhdZr7eh_yZSg",
+        "title": "채수빈 실물 후기",
+        "description": "채수빈 #모두의후기 #연예인실물후기 #채수빈실물후기.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tGtVHx7-zxw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tGtVHx7-zxw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tGtVHx7-zxw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "모두의후기-연예인실물",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-07T13:00:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "a6iZ3hoET7jGSyRUZVD1wcASzQ4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mDWAQe9I55Y"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-08T13:50:01Z",
+        "channelId": "UCSjJWtmdYfLL2Ki98aaN3_g",
+        "title": "#채수빈 참신한 욕 연기 l #로봇이아니야",
+        "description": "로봇이 아니야 1회 중 조지아의 욕 연기 https://youtu.be/9c2s8AqSliE #채수빈 #로봇이아니야 #욕연기 #ChaeSooBin #ImNotARobot ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mDWAQe9I55Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mDWAQe9I55Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mDWAQe9I55Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "채수밭 디니 ChaeSooBin fan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-08T13:50:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cCEsTN_tsdDSPR8fIrcIWL0NDEI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Iiy2mhYAJyI"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-08T09:00:10Z",
+        "channelId": "UCqUIzHXyHAFz8Cvjo24LXjw",
+        "title": "[SNL채수빈] 잘못했네 .. 잘가...",
+        "description": "채수빈 #존예 #권혁수 #주현영 #불멍 #쿠팡플레이 #snl #신동엽 #레전드 #예능.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Iiy2mhYAJyI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Iiy2mhYAJyI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Iiy2mhYAJyI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "1분루팡 : 조회수293만",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-08T09:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GQWLRQhPjIeK1gpDGgE9fVPokTI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oD5V5XMFpG0"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-17T09:00:32Z",
+        "channelId": "UCSjJWtmdYfLL2Ki98aaN3_g",
+        "title": "이렇게 꼬~옥 안고 자고 싶었어요 I #새콤달콤 채수빈",
+        "description": "새콤달콤 설문 공동 1위 장면인 정다은과 이장혁의 하룻밤. #채수빈 #새콤달콤 #ChaeSooBin #SweetandSour #Shorts.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oD5V5XMFpG0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oD5V5XMFpG0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oD5V5XMFpG0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "채수밭 디니 ChaeSooBin fan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-17T09:00:32Z"
+      }
+    }
+  ]
+}

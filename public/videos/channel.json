@@ -1,0 +1,43 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "-qrZmOXqqtPkZSmUeXrNBF0bHvc",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "ij29zBGAiPDRt5vkyf4LJi3t8Zk",
+      "id": "UCn3O61fCr_5Vm16DBGeQl0w",
+      "snippet": {
+        "title": "신민땅",
+        "description": "아프리카 비제이 민땅님의 팬튜브입니다.\n\n",
+        "customUrl": "@xls_xls_",
+        "publishedAt": "2022-11-21T01:33:19.641314Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/g08IxuaAfoi61mFmYJl4UzjIPFnzEZep4z01BLzb9T3sFs6Vl5xlqrU7NzhOmi8VoVUC9lC1TQ=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/g08IxuaAfoi61mFmYJl4UzjIPFnzEZep4z01BLzb9T3sFs6Vl5xlqrU7NzhOmi8VoVUC9lC1TQ=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/g08IxuaAfoi61mFmYJl4UzjIPFnzEZep4z01BLzb9T3sFs6Vl5xlqrU7NzhOmi8VoVUC9lC1TQ=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "신민땅",
+          "description": "아프리카 비제이 민땅님의 팬튜브입니다.\n\n"
+        },
+        "country": "KR"
+      }
+    }
+  ]
+}
